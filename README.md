@@ -8,7 +8,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 **These papers attempt to address the following questions:** 
 
-(1) Can recommender systems have their own foundational models similar to those used in NLP and CV? 
+(1) Can recommender systems have their own foundation models similar to those used in NLP and CV? 
 
 (2) Can explicit item ID embeddings be replaced or abandoned? 
 
