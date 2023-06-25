@@ -2,14 +2,14 @@
 
 <!-- <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font> -->
 
-Paper list of pretrained language model (PLM) for Recommender System. The list also contains Large Language Model (LLM) for Recommender System.
+Paper list of LLM (Large Language Model) and multimodal Recommender System. 
 
-**Keyword:** *Recommend System, pretrained models, large language model*
+**Keyword:** *Recommend System, pretrained models, large language model, multimodal recommender system, ID features, ID embeddings*
 
 **Welcome to open an issue or make a pull request!**
 # Paper List
 
-## Multimodal 
+## Perspective paper 
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2022, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 
@@ -35,6 +35,18 @@ Paper list of pretrained language model (PLM) for Recommender System. The list a
 - Privacy-Preserving Recommender Systems with Synthetic Query Generation  using Differentially Private Large Language Models, arxiv 2023, [[paper]](http://arxiv.org/abs/2305.05973v1)
 
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
+  
+## Multimodal Recommender System
+
+
+## Foundation Recommender models
+
+
+
+
+## Generative recommender systems
+
+## Replacing ID features
 
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
@@ -43,7 +55,6 @@ Paper list of pretrained language model (PLM) for Recommender System. The list a
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 
 
-## Foundation Model
 
 
 
