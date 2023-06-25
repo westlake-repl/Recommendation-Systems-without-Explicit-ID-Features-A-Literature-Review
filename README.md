@@ -68,6 +68,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 
 
 
