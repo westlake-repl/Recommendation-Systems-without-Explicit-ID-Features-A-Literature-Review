@@ -16,7 +16,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 (4) How can LLM be utilized to enhance recommender systems?
 
-(5) What does the future hold for multimodal recommender systems?**
+(5) What does the future hold for multimodal recommender systems?
 
 **Welcome to open an issue or make a pull request!** 
 # Paper List 
