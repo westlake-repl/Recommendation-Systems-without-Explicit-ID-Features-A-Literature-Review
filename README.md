@@ -22,7 +22,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 # Paper List 
 
 ## Perspective Paper 
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 
 
