@@ -13,6 +13,8 @@ Paper list of LLM (Large Language Model) and multimodal Recommender System.
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2022, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 
+## Literature Review 
+
 ## Large Language Models for Recommendation
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
