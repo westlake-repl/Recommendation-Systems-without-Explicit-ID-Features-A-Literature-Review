@@ -6,7 +6,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 **Keyword:** *Recommend System, pretraining, large language model, multimodal recommender system, transferable recommender system, foundation recommender models, ID features, ID embeddings*
 
-**These papers attempt to address the following questions: 
+**These papers attempt to address the following questions:** 
 
 (1) Can recommender systems have their own foundational models similar to those used in NLP and CV? 
 
