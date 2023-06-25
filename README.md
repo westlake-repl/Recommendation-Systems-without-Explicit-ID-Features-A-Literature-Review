@@ -71,9 +71,9 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 ## Foundation Recommender models
-- TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback,arxiv 2022/06, [[paper]](https://arxiv.org/pdf/2206.06190.pdf)
-- Towards Universal Sequence Representation Learning for Recommender Systems, KDD202，2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
-- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
+- TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback, arxiv 2022/06, [[paper]](https://arxiv.org/pdf/2206.06190.pdf)
+- Towards Universal Sequence Representation Learning for Recommender Systems, KDD202,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 
 ## Universal User Reresentation
 
