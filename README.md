@@ -56,7 +56,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 ## Foundation Recommender models
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2022, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 
-
+## Universal User Reresentation
 
 
 ## Generative Recommender Systems
