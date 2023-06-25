@@ -4,7 +4,7 @@
 
 Paper list of LLM (Large Language Model) and multimodal Recommender System. 
 
-**Keyword:** *Recommend System, pretrained models, large language model, multimodal recommender system, ID features, ID embeddings*
+**Keyword:** *Recommend System, pretrained models, large language model, multimodal recommender system, transferable recommender system, foundation recommender models, ID features, ID embeddings*
 
 **Welcome to open an issue or make a pull request!**
 # Paper List
@@ -46,7 +46,7 @@ Paper list of LLM (Large Language Model) and multimodal Recommender System.
 
 ## Generative recommender systems
 
-## Replacing ID features
+## Abandoning explicit ID features
 
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
