@@ -22,7 +22,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 # Paper List 
 
 ## Perspective Paper 
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 
 
@@ -71,7 +71,9 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 ## Foundation Recommender models
-- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2022, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
+- TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback,arxiv 2022/06, [[paper]](https://arxiv.org/pdf/2206.06190.pdf)
+- Towards Universal Sequence Representation Learning for Recommender Systems, KDD202，2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 
 ## Universal User Reresentation
 
