@@ -21,14 +21,14 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 **Welcome to open an issue or make a pull request!** 
 # Paper List 
 
-## Perspective paper 
+## Perspective Paper 
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 
 
 ## Survey
 
-## Large Language Models for Recommendation
+## Large Language Models for Recommendation （LLM4Rec）
 - Language Models as Recommender Systems: Evaluations and Limitations , NeurIPS 2021 Workshop ICBINB , [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) , Recsys 2022 , [[paper]](https://arxiv.org/abs/2203.13366))
@@ -50,7 +50,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 - CTRL: Connect Tabular and Language Model for CTR Prediction, arxiv 2023,[[paper]](https://arxiv.org/abs/2306.02841)
   
-## Multimodal Recommender System
+## Multimodal Recommender System 
 
 
 ## Foundation Recommender models
@@ -59,9 +59,9 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 
-## Generative recommender systems
+## Generative Recommender Systems
 
-## Abandoning explicit ID features
+## Abandoning Explicit ID Features
 
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
