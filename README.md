@@ -79,7 +79,9 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - VIP5: Towards Multimodal Foundation Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
 - OpenP5: Benchmarking Foundation Models for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11134.pdf)
 
-## Universal User Reresentation
+## Universal User Representation
+- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
+- Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 
 
 ## Generative Recommender Systems 
