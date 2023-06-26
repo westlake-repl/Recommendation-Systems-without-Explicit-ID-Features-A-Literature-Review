@@ -87,7 +87,6 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
 - Recommender Systems with Generative Retrieval, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
 
-## Abandoning Explicit ID Features
 
 ## Dataset
 - PeterRec dataset[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
