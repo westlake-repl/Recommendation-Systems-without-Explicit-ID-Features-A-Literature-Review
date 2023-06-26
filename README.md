@@ -49,6 +49,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 ### Prompt with LLM
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), RecSys 2022, [[paper]](https://arxiv.org/pdf/2203.13366.pdf)
 - Language Models as Recommender Systems: Evaluations and Limitations, NeurIPS Workshop ICBINB 2021/10, [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - Prompt Learning for News Recommendation, SIGIR 2023/04, [[paper]](https://arxiv.org/abs/2304.05263)
 ### ChatGPT [[link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
@@ -71,7 +72,6 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 ## Foundation Recommender models
-- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), RecSys 2022, [[paper]](https://arxiv.org/pdf/2203.13366.pdf)
 - TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback, arxiv 2022/06, [[paper]](https://arxiv.org/pdf/2206.06190.pdf)
 - Towards Universal Sequence Representation Learning for Recommender Systems, KDD202,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
@@ -80,8 +80,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - OpenP5: Benchmarking Foundation Models for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11134.pdf)
 
 ## Universal User Representation
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
-- Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
+
 
 
 ## Generative Recommender Systems 
