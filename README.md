@@ -35,14 +35,26 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Recsys 2022/05, [[paper]](https://arxiv.org/abs/2203.13366))
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022/09, [[paper]](https://arxiv.org/abs/2209.08060)
 - TALLRec: An Effective and Efficient Tuning Framework to Align Large  Language Model with Recommendation, arxiv 2023/04, [[paper]](http://arxiv.org/abs/2305.00447v1)
-### Freezing LLM
+### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models，arxiv 2022/04,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
+- Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning, arxiv 2022/06, [[paper]](https://arxiv.org/abs/2206.09363)
+- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/abd/2304.03516)
+- Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.13112)
+- Leveraging Large Language Models in ConversationalRecommender Systems, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.07961)
+- A First Look at LLM-Powered Generative News Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.06566)
+- Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023/05,[[paper]](https://arxiv.org/abs/2305.05973)
+- RecAgent: A Novel Simulation Paradigm for Recommender Systems, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.02552)
+- Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.03153)
+
+
+
 ### Prompt with LLM
 - Language Models as Recommender Systems: Evaluations and Limitations, NeurIPS Workshop ICBINB 2021/10, [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - Prompt Learning for News Recommendation, SIGIR 2023/04, [[paper]](https://arxiv.org/abs/2304.05263)
 ### ChatGPT
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
+- Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, arxiv 2023/04,[[paper]](https://arxiv.org/abs/2303.14524)
 - Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023/05, [[paper]](http://arxiv.org/abs/2305.08845v1)
 - Recommendation as Instruction Following: A Large Language Model  Empowered Recommendation Approach, arxiv 2023/05, [[paper]](http://arxiv.org/abs/2305.07001v1)
 - Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023/05, [[paper]](http://arxiv.org/abs/2305.07961v2)
@@ -50,6 +62,8 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 - Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.04518.pdf)
 - Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023/05,[[paper]](https://arxiv.org/pdf/2305.07609.pdf)
 [[code]](https://github.com/jizhi-zhang/FaiRLLM)
+- Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023/05,[[paper]](https://arxiv.org/abs/2305.04518)
+
 
 
 
