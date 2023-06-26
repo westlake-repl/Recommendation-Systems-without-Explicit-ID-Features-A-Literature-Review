@@ -71,14 +71,20 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 
 ## Foundation Recommender models
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), RecSys 2022, [[paper]](https://arxiv.org/pdf/2203.13366.pdf)
 - TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback, arxiv 2022/06, [[paper]](https://arxiv.org/pdf/2206.06190.pdf)
 - Towards Universal Sequence Representation Learning for Recommender Systems, KDD202,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
+- UP5: Unbiased Foundation Model for Fairness-aware Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
+- VIP5: Towards Multimodal Foundation Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
+- OpenP5: Benchmarking Foundation Models for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11134.pdf)
 
 ## Universal User Reresentation
 
 
-## Generative Recommender Systems
+## Generative Recommender Systems 
+- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
+- Recommender Systems with Generative Retrieval, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
 
 ## Abandoning Explicit ID Features
 
