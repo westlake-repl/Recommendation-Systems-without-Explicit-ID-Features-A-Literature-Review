@@ -99,6 +99,7 @@
 
 ## Generative Recommender Systems 
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
+- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation，WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)
 
 
 
