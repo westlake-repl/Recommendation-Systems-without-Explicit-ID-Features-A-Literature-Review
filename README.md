@@ -99,7 +99,8 @@
 
 ## Generative Recommender Systems 
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
-- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation，WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)
+- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation，WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
+- A Simple Convolutional Generative Network for Next Item Recommendation，WSDM 2019, [[paper]](https://fajieyuan.github.io/papers/nextitnet6.pdf)  [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 
 
 
