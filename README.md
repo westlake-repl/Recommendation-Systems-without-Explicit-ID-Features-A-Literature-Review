@@ -24,7 +24,7 @@
 ## Perspective Paper 
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)  [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
-- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
+
 
 
 
@@ -99,6 +99,7 @@
 
 ## Generative Recommender Systems 
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
+- Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
 - Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation，WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 - A Simple Convolutional Generative Network for Next Item Recommendation，WSDM 2019, [[paper]](https://fajieyuan.github.io/papers/nextitnet6.pdf)  [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 
