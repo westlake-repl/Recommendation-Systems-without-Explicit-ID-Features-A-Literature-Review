@@ -76,7 +76,7 @@
 
 ## Foundation and Transferable Recommender models
 - TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback, arxiv 2022/06, [[paper]](https://www.semanticscholar.org/paper/TransRec%3A-Learning-Transferable-Recommendation-from-Wang-Yuan/f7c9551e19fabf5d534115a5704a5f8fea097534)
-- Towards Universal Sequence Representation Learning for Recommender Systems, KDD202,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
+- Towards Universal Sequence Representation Learning for Recommender Systems, KDD2022,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
 - Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [[paper]](https://arxiv.org/abs/2210.12316) [[code]](https://github.com/RUCAIBox/VQ-Rec)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)
 - UP5: Unbiased Foundation Model for Fairness-aware Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
