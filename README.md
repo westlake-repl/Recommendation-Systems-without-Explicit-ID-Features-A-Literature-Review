@@ -10,7 +10,7 @@
 
 (1) Can recommender systems have their own foundation models similar to those used in NLP and CV? 
 
-(2) Can explicit item ID embeddings be replaced or abandoned? 
+(2) Is ID embedding necessary for recommender models, can we replace or abondon it? 
 
 (3) Will recommender systems shift from a matching paradigm to a generating paradigm?
 
