@@ -1,4 +1,5 @@
 # Recommendation Systems without Explicit ID Features: A Literature Review
+**Welcome to open an issue or make a pull request!** 
 
 <!-- <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font> -->
 
@@ -18,7 +19,7 @@ Paper list of LLM (Large Language Model), multimodal, transferable and foundatio
 
 (5) What does the future hold for multimodal recommender systems?
 
-**Welcome to open an issue or make a pull request!** 
+
 # Paper List 
 
 ## Perspective Paper 
