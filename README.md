@@ -3,7 +3,6 @@
 
 <!-- <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font> -->
 
-Paper list of LLM (Large Language Model), multimodal, transferable and foundation Recommender System. 
 
 **Keyword:** *Recommend System, pretraining, large language model, multimodal recommender system, transferable recommender system, foundation recommender models, ID features, ID embeddings*
 
