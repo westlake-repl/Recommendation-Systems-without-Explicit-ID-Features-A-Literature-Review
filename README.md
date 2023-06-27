@@ -121,6 +121,7 @@
 
 
 
-# Workshop and Tutorial
+# Reference:
+https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main
 -
 
