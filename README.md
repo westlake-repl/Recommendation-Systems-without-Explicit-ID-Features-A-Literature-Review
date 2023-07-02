@@ -1,4 +1,4 @@
-# Recommender Systems without Explicit ID Features: a Key step towards foundation recommender models
+# Foundation models for Recommender System Paper List
 **Welcome to open an issue or make a pull request!** 
 
 <!-- <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font> -->
