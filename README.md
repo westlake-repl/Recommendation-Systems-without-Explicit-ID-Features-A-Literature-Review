@@ -91,9 +91,9 @@
 ## Universal One4all Representation Learning 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 - U-BERT: Pre-training user representations for improved recommendation, AAAI 2021, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
-- One4all User Representation for Recommender Systems in E-commerce , arxiv 2021 , [[paper]](https://arxiv.org/abs/2106.00573)
+- One4all User Representation for Recommender Systems in E-commerce, arxiv 2021, [[paper]](https://arxiv.org/abs/2106.00573)
 - Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training, ICDM 2021, [[paper]](https://fajieyuan.github.io/papers/ICDM2021.pdf)
-- Scaling Law for Recommendation Models: Towards General-purpose User Representations , AAAI 2023 , [[paper]](https://arxiv.org/abs/2111.11294)
+- Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
 
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
@@ -102,10 +102,19 @@
   
 
 ## Generative Recommender Systems 
+- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
+- Generative Sequential Recommendation with GPTRec, SIGIR 2023, [[paper]](https://arxiv.org/abs/2306.11114.pdf)
+- FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation, WWW 2023
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
+- GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.03879.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
+- Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.07001.pdf)
+- Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.08845.pdf)
 - Generative Retrieval as Dense Retrieval, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11397.pdf)
-- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation，WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
+- Generative Next-Basket Recommendation, RecSys 2023
+- Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model, RecSys 2023
+- Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
+- 
 
 
 
