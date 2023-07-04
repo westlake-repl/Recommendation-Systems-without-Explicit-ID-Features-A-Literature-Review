@@ -114,10 +114,6 @@
 - Generative Next-Basket Recommendation, RecSys 2023
 - Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model, RecSys 2023
 - Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
-- 
-
-
-
 
 
 ## Dataset
