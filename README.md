@@ -104,7 +104,7 @@
 ## Generative Recommender Systems 
 - Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 - Generative Sequential Recommendation with GPTRec, SIGIR 2023, [[paper]](https://arxiv.org/abs/2306.11114.pdf)
-- FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation, WWW 2023
+- FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation, WWW 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
 - GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.03879.pdf)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.03516.pdf)
