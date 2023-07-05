@@ -102,13 +102,23 @@
 - STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representationg, arxiv 2023,  [[paper]](https://arxiv.org/abs/2306.12232)
   
 
-## Generative Recommender Systems 
+## Generative Recommender Systems [[link]](https://github.com/gabriben/awesome-generative-information-retrieval#generative-recommendation)
 - A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
 - Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
+- Recommendation via Collaborative Diffusion Generative Model, KSEM 2022/08, [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-10989-8_47)
+- Blurring-Sharpening Process Models for Collaborative Filtering, arxiv 2022/09, [[paper]](https://arxiv.org/abs/2211.09324)
+- Generative Slate Recommendation with Reinforcement Learning, arxiv 2023/01, [[paper]](https://arxiv.org/abs/2301.08632)
 - Recommender Systems with Generative Retrieval, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2305.05065.pdf)
+- DiffuRec: A Diffusion Model for Sequential Recommendation, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.00686)
+- Diffusion Recommender Model, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.04971)
+- A First Look at LLM-Powered Generative News Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.06566)
+- Recommender Systems with Generative Retrieval, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.05065)
+- Generative Retrieval as Dense Retrieval, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11397.pdf)
+- RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.08947)
+
 - Generative Sequential Recommendation with GPTRec, SIGIR 2023, [[paper]](https://arxiv.org/abs/2306.11114.pdf)
 - FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation, WWW 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
-- Generative Retrieval as Dense Retrieval, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11397.pdf)
+
 - Generative Next-Basket Recommendation, RecSys 2023
 - Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
 
