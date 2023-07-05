@@ -103,8 +103,8 @@
   
 
 ## Generative Recommender Systems [[link]](https://github.com/gabriben/awesome-generative-information-retrieval#generative-recommendation)
-- A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
-- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
+- A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
+- Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 - Recommendation via Collaborative Diffusion Generative Model, KSEM 2022/08, [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-10989-8_47)
 - Blurring-Sharpening Process Models for Collaborative Filtering, arxiv 2022/09, [[paper]](https://arxiv.org/abs/2211.09324)
 - Generative Slate Recommendation with Reinforcement Learning, arxiv 2023/01, [[paper]](https://arxiv.org/abs/2301.08632)
