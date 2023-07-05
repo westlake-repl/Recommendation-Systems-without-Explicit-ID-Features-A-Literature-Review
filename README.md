@@ -115,7 +115,7 @@
 - Recommender Systems with Generative Retrieval, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.05065)
 - Generative Retrieval as Dense Retrieval, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11397.pdf)
 - RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.08947)
-- Generative Sequential Recommendation with GPTRec, SIGIR 2023, [[paper]](https://arxiv.org/abs/2306.11114.pdf)
+- Generative Sequential Recommendation with GPTRec, SIGIR workshop 2023, [[paper]](https://arxiv.org/abs/2306.11114.pdf)
 - FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation, WWW 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
 - Generative Next-Basket Recommendation, RecSys 2023
 - Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023, [[paper]](https://arxiv.org/pdf/2304.00545.pdf)
