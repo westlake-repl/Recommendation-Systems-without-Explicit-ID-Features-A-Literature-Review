@@ -100,7 +100,7 @@
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
-- STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representationg, arxiv 2023,  [[paper]](https://arxiv.org/abs/2306.12232)
+- STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representationg, Recsys 2023,  [[paper]](https://arxiv.org/abs/2306.12232)
 - Task Relation-aware Continual User Representation Learning, KDD2023,  [[paper]](https://arxiv.org/pdf/2306.01792.pdf)
   
 
