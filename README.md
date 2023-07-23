@@ -139,5 +139,5 @@
 
 ## Reference:
 - Xiangyang Li Github  [[Link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main)
-- nancheng58i Github  [[Link]](https://github.com/nancheng58)
+- nancheng58i Github  [[Link]](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
 
