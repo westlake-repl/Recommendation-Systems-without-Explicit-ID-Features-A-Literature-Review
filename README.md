@@ -95,6 +95,7 @@
 - One4all User Representation for Recommender Systems in E-commerce, arxiv 2021, [[paper]](https://arxiv.org/abs/2106.00573)
 - Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training, ICDM 2021, [[paper]](https://fajieyuan.github.io/papers/ICDM2021.pdf)
 - Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
+- Learning Large-scale Universal User Representation with Sparse Mixture of Experts, ICML2022workshop, [[paper]](https://openreview.net/pdf?id=7tWNJ6NR-76)
 
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
