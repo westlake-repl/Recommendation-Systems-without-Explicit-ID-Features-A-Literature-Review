@@ -29,9 +29,10 @@
 
 
 ## Survey
+- A Survey on Large Language Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.19860)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.05817)
 - Recommender Systems in the Era of Large Language Models, arxiv, 2023/07, [[paper]](https://arxiv.org/pdf/2307.02046.pdf)
-- A Survey on Large Language Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/abs/2305.19860)
+- A Survey on Evaluation of Large Language Models, arxiv, 2023/07, [[paper]](https://arxiv.org/abs/2307.03109)
 
 ## Large Language Models for Recommendation （LLM4Rec）
 ### Tuning LLM
@@ -40,6 +41,7 @@
 - PTab: Using the Pre-trained Language Model for Modeling Tabular Data, arxiv 2022/09, [[paper]](https://arxiv.org/abs/2209.08060)
 - TALLRec: An Effective and Efficient Tuning Framework to Align Large  Language Model with Recommendation, arxiv 2023/04, [[paper]](http://arxiv.org/abs/2305.00447v1)
 - GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, 2023/04, [[paper]](https://arxiv.org/pdf/2304.03879.pdf)
+- A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv, 2023/08, [[paper]](https://arxiv.org/abs/2308.08434)
 ### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models，arxiv 2022/04,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning, arxiv 2022/06, [[paper]](https://arxiv.org/abs/2206.09363)
@@ -56,6 +58,7 @@
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), RecSys 2022, [[paper]](https://arxiv.org/pdf/2203.13366.pdf)
 - Language Models as Recommender Systems: Evaluations and Limitations, NeurIPS Workshop ICBINB 2021/10, [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - Prompt Learning for News Recommendation, SIGIR 2023/04, [[paper]](https://arxiv.org/abs/2304.05263)
+- LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv,  [[paper]](https://arxiv.org/abs/2307.15780)
 ### ChatGPT [[link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
