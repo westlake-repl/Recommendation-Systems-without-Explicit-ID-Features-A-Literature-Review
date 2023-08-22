@@ -58,7 +58,7 @@
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), RecSys 2022, [[paper]](https://arxiv.org/pdf/2203.13366.pdf)
 - Language Models as Recommender Systems: Evaluations and Limitations, NeurIPS Workshop ICBINB 2021/10, [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - Prompt Learning for News Recommendation, SIGIR 2023/04, [[paper]](https://arxiv.org/abs/2304.05263)
-- LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv,  [[paper]](https://arxiv.org/abs/2307.15780)
+- LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv,2023/07  [[paper]](https://arxiv.org/abs/2307.15780)
 ### ChatGPT [[link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
 - Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.10149.pdf)
 - Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023/04, [[paper]](https://arxiv.org/pdf/2304.09542.pdf)
