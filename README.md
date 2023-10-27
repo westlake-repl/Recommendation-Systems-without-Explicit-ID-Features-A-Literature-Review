@@ -90,7 +90,7 @@
 - Towards Universal Sequence Representation Learning for Recommender Systems, KDD2022,2022/06, [[paper]](https://arxiv.org/pdf/2206.05941.pdf)
 - Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [[paper]](https://arxiv.org/abs/2210.12316) [[code]](https://github.com/RUCAIBox/VQ-Rec)
 - UP5: Unbiased Foundation Model for Fairness-aware Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
-- VIP5: Towards Multimodal Foundation Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
+- Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,  arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)  [[code]](https://github.com/westlake-repl/Adapter4Rec)
 - OpenP5: Benchmarking Foundation Models for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11134.pdf)
 - Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/05b97a88e33241bc88e69960703b97c7eb686f22)
 - MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/7f1bfaa0ffd9f552750a86455117757a303648d7)
