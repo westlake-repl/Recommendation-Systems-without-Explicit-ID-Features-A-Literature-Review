@@ -92,6 +92,8 @@
 - UP5: Unbiased Foundation Model for Fairness-aware Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
 - VIP5: Towards Multimodal Foundation Models for Recommendation, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.12090.pdf)
 - OpenP5: Benchmarking Foundation Models for Recommendation, arxiv 2023/06, [[paper]](https://arxiv.org/pdf/2306.11134.pdf)
+- Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/05b97a88e33241bc88e69960703b97c7eb686f22)
+- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/7f1bfaa0ffd9f552750a86455117757a303648d7)
 
 ## Universal One4all Representation Learning 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
