@@ -90,6 +90,8 @@
 ## Multimodal Recommender System 
 - VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback, AAAI2016, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/9973)
 - Multi-modal Knowledge Graphs for Recommender Systems, CIKM 2020, [[paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
+- Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation, ACMMM 2023, [[paper]](https://www.semanticscholar.org/paper/Online-Distillation-enhanced-Multi-modal-for-Ji-Liu/a1f718113c6a4ac6eeacce477eefc0a26d101e95)
+- FMMRec: Fairness-aware Multimodal Recommendation, arxiv2023/10, [[paper]](https://www.semanticscholar.org/paper/FMMRec%3A-Fairness-aware-Multimodal-Recommendation-Chen-Chen/1c62a0d2c663837de50f729c60d90e2c5c1b69b2)
 
 
 ## Foundation and Transferable Recommender models
@@ -112,12 +114,14 @@
 - Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
 - Learning Large-scale Universal User Representation with Sparse Mixture of Experts, ICML2022workshop, [[paper]](https://openreview.net/pdf?id=7tWNJ6NR-76)
 - Multi Datasource LTV User Representation (MDLUR), KDD2023, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599871)
+- Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning. arxiv2022/12, [[paper]](https://www.semanticscholar.org/paper/Pivotal-Role-of-Language-Modeling-in-Recommender-Shin-Kwak/7557105c9aa6a26db4f8e73fabb25e8134013fb5)
 
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representationg, Recsys 2023,  [[paper]](https://arxiv.org/abs/2306.12232)
 - Task Relation-aware Continual User Representation Learning, KDD2023,  [[paper]](https://arxiv.org/pdf/2306.01792.pdf)
+- ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv2023/08,  [[paper]](https://www.semanticscholar.org/paper/ReLLa%3A-Retrieval-enhanced-Large-Language-Models-for-Lin-Shan/429e6c09eeadf54e2b245b8f2cddfbf157f9da4c)
   
 
 ## Generative Recommender Systems [[link]](https://github.com/gabriben/awesome-generative-information-retrieval#generative-recommendation)
