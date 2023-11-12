@@ -41,6 +41,8 @@
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels [[paper]](https://arxiv.org/abs/2309.06789)  [[link]](https://github.com/westlake-repl/PixelRec)
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)
+- Netflix: [[link]](https://github.com/HKUDS/LLMRec)
+
 
 ## Large Language Models for Recommendation （LLM4Rec）
 ### Tuning LLM
@@ -51,6 +53,7 @@
 - A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv, 2023/08, [[paper]](https://arxiv.org/abs/2308.08434)
 
 ### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/pdf/2311.00423.pdf)  [[code]](https://github.com/HKUDS/LLMRec)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models，arxiv 2022/04,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning, arxiv 2022/06, [[paper]](https://arxiv.org/abs/2206.09363)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/abd/2304.03516)
