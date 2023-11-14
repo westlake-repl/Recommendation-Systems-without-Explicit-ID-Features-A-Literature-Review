@@ -51,6 +51,7 @@
 - TALLRec: An Effective and Efficient Tuning Framework to Align Large  Language Model with Recommendation, arxiv 2023/04, [[paper]](http://arxiv.org/abs/2305.00447v1)
 - GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, 2023/04, [[paper]](https://arxiv.org/pdf/2304.03879.pdf)
 - A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv, 2023/08, [[paper]](https://arxiv.org/abs/2308.08434)
+- LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023, [[paper]](https://arxiv.org/abs/2311.02089)  [[code]](https://github.com/Yueeeeeeee/LlamaRec)
 
 ### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
 - LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/pdf/2311.00423.pdf)  [[code]](https://github.com/HKUDS/LLMRec)
