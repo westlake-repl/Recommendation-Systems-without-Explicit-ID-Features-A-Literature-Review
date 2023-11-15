@@ -154,14 +154,11 @@
 
 
 
-## Reference:
+## Reference and Blogs:
 - Xiangyang Li Github  [[Link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main)
 - nancheng58i Github  [[Link]](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
 - https://zhuanlan.zhihu.com/p/665467596
 - https://zhuanlan.zhihu.com/p/633839409
 - https://zhuanlan.zhihu.com/p/642797247
 - https://zhuanlan.zhihu.com/p/437671278
-- 
-- 
-- 
 
