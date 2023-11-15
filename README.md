@@ -54,7 +54,6 @@
 - LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023, [[paper]](https://arxiv.org/abs/2311.02089)  [[code]](https://github.com/Yueeeeeeee/LlamaRec)
 
 ### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
-- LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/pdf/2311.00423.pdf)  [[code]](https://github.com/HKUDS/LLMRec)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models，arxiv 2022/04,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
 - Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning, arxiv 2022/06, [[paper]](https://arxiv.org/abs/2206.09363)
 - Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023/04, [[paper]](https://arxiv.org/abd/2304.03516)
@@ -63,6 +62,7 @@
 - RecAgent: A Novel Simulation Paradigm for Recommender Systems, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.02552)
 - Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023/04, [[paper]](https://arxiv.org/abs/2304.03153)
 - Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model, RecSys 2023
+- LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/pdf/2311.00423.pdf)  [[code]](https://github.com/HKUDS/LLMRec)
 
 
 
