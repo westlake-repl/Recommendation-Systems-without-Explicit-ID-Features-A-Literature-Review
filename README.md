@@ -108,6 +108,8 @@
 - Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/05b97a88e33241bc88e69960703b97c7eb686f22)
 - MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/7f1bfaa0ffd9f552750a86455117757a303648d7)
 - Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.10501.pdf)
+- Universal Multi-modal Multi-domain Pre-trained Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.01831.pdf)
+
 
 
 ## Universal One4all Representation Learning 
