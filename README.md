@@ -34,6 +34,7 @@
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023/06, [[paper]](https://arxiv.org/abs/2306.05817)
 - Recommender Systems in the Era of Large Language Models, arxiv, 2023/07, [[paper]](https://arxiv.org/pdf/2307.02046.pdf)
 - A Survey on Evaluation of Large Language Models, arxiv, 2023/07, [[paper]](https://arxiv.org/abs/2307.03109)
+- Self-Supervised Learning for Recommender Systems: A Survey, arxiv, 2022/06, [[paper]](https://arxiv.org/pdf/2203.15876.pdf)
 
 ## Dataset
 - PeterRec dataset[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
