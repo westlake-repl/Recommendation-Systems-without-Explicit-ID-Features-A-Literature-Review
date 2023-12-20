@@ -114,7 +114,7 @@
 
 
 
-## Universal One4all Representation Learning 
+## Universal or General-Purpose User Representation Learning 
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
 - U-BERT: Pre-training user representations for improved recommendation, AAAI 2021, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
 - One4all User Representation for Recommender Systems in E-commerce, arxiv 2021, [[paper]](https://arxiv.org/abs/2106.00573)
