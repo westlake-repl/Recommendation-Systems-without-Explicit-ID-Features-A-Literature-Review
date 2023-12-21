@@ -112,6 +112,8 @@
 - MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, arxiv 2023/10, [[paper]](https://www.semanticscholar.org/reader/7f1bfaa0ffd9f552750a86455117757a303648d7)
 - Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.10501.pdf)
 - Universal Multi-modal Multi-domain Pre-trained Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.01831.pdf)
+- Multi-Modality is All You Need for Transferable Recommender Systems,  arxiv 2023, [[paper]](https://www.semanticscholar.org/reader/4345216c8c99207c19d21621fcf3c6149dde97ea)
+
 
 
 
@@ -125,7 +127,6 @@
 - Learning Large-scale Universal User Representation with Sparse Mixture of Experts, ICML2022workshop, [[paper]](https://openreview.net/pdf?id=7tWNJ6NR-76)
 - Multi Datasource LTV User Representation (MDLUR), KDD2023, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599871)
 - Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning. arxiv2022/12, [[paper]](https://www.semanticscholar.org/paper/Pivotal-Role-of-Language-Modeling-in-Recommender-Shin-Kwak/7557105c9aa6a26db4f8e73fabb25e8134013fb5)
-- Multi-Modality is All You Need for Transferable Recommender Systems,  arxiv 2023, [[paper]](https://www.semanticscholar.org/reader/4345216c8c99207c19d21621fcf3c6149dde97ea)
 
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
