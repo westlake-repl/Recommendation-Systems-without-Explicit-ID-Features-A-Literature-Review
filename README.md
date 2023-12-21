@@ -36,6 +36,7 @@
 - A Survey on Evaluation of Large Language Models, arxiv, 2023/07, [[paper]](https://arxiv.org/abs/2307.03109)
 - Self-Supervised Learning for Recommender Systems: A Survey, arxiv, 2023/06, [[paper]](https://arxiv.org/pdf/2203.15876.pdf)
 - Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, 2022/09, [[paper]](https://arxiv.org/pdf/2302.03735.pdf)
+- User Modeling in the Era of Large Language Models: Current Research and Future Directions,2023/12, [[paper]](https://www.semanticscholar.org/reader/74b0976a3a7b7013fd468a043a940dcf401e66f1)
 
 ## Dataset
 - PeterRec dataset[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
@@ -124,6 +125,7 @@
 - Learning Large-scale Universal User Representation with Sparse Mixture of Experts, ICML2022workshop, [[paper]](https://openreview.net/pdf?id=7tWNJ6NR-76)
 - Multi Datasource LTV User Representation (MDLUR), KDD2023, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599871)
 - Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning. arxiv2022/12, [[paper]](https://www.semanticscholar.org/paper/Pivotal-Role-of-Language-Modeling-in-Recommender-Shin-Kwak/7557105c9aa6a26db4f8e73fabb25e8134013fb5)
+- Multi-Modality is All You Need for Transferable Recommender Systems,  arxiv 2023, [[paper]](https://www.semanticscholar.org/reader/4345216c8c99207c19d21621fcf3c6149dde97ea)
 
 ## Lifelong User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
