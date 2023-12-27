@@ -39,7 +39,7 @@
 - User Modeling in the Era of Large Language Models: Current Research and Future Directions,2023/12, [[paper]](https://www.semanticscholar.org/reader/74b0976a3a7b7013fd468a043a940dcf401e66f1)
 
 ## Dataset
-- PeterRec dataset[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
+- Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec)
