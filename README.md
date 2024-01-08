@@ -49,6 +49,7 @@
 
 ## Large Language Models for Recommendation （LLM4Rec）
 ### Scaling LLM
+- Emergent Abilities of Large Language Models, arxiv 2023/05, [[paper]](https://openreview.net/pdf?id=yzkSU5zdwD)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.06474.pdf)
 - Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
