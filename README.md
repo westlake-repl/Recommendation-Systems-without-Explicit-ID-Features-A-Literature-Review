@@ -4,7 +4,7 @@
 <!-- <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font> -->
 
 
-**Keyword:** *Recommend System, pretraining, large language model, multimodal recommender system, transferable recommender system, foundation recommender models, ID features, ID embeddings*
+**Keyword:** *Recommend System, pretraining, large language model, multimodal recommender system, transferable recommender system, foundation recommender models, universal user representation, one-model-fit-all, ID features, ID embeddings*
 
 **These papers attempt to address the following questions:** 
 
