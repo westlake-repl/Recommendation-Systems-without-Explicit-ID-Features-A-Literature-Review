@@ -131,6 +131,7 @@
 - User-specific Adaptive Fine-tuning for Cross-domain Recommendations, TKDE 2021, [[paper]](https://arxiv.org/pdf/2106.07864.pdf)
 - Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
 - U-BERT: Pre-training user representations for improved recommendation, AAAI 2021, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
+- One for All, All for One: Learning and Transferring User Embeddings for Cross-Domain Recommendation, WSDM 2022, [[paper]](https://arxiv.org/abs/2211.11964)
 - Field-aware Variational Autoencoders for Billion-scale User Representation Learning,ICDE2022, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835571)
 - Learning Large-scale Universal User Representation with Sparse Mixture of Experts, ICML2022workshop, [[paper]](https://openreview.net/pdf?id=7tWNJ6NR-76)
 - Multi Datasource LTV User Representation (MDLUR), KDD2023, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599871)
