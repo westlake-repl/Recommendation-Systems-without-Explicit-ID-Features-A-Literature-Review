@@ -60,6 +60,7 @@
 - GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, 2023/04, [[paper]](https://arxiv.org/pdf/2304.03879.pdf)
 - A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv, 2023/08, [[paper]](https://arxiv.org/abs/2308.08434)
 - LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023, [[paper]](https://arxiv.org/abs/2311.02089)  [[code]](https://github.com/Yueeeeeeee/LlamaRec)
+- Improving Sequential Recommendations with LLMs, arxiv 2024/02, [[paper]](https://arxiv.org/pdf/2402.01339.pdf) 
 
 ### Freezing LLM [[link]](https://github.com/WLiK/LLM4Rec)
 - CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models，arxiv 2022/04,  [[paper]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf)
@@ -120,7 +121,7 @@
 - Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.10501.pdf)
 - Universal Multi-modal Multi-domain Pre-trained Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.01831.pdf)
 - Multi-Modality is All You Need for Transferable Recommender Systems,  arxiv 2023, [[paper]](https://www.semanticscholar.org/reader/4345216c8c99207c19d21621fcf3c6149dde97ea)
-- TransFR: Transferable Federated Recommendation with Pre-trained Language Models, arxiv 2024 ,[[paper]](https://arxiv.org/pdf/2402.01124.pdf)
+- TransFR: Transferable Federated Recommendation with Pre-trained Language Models, arxiv 2024/02 ,[[paper]](https://arxiv.org/pdf/2402.01124.pdf)
 
 
 
