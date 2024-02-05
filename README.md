@@ -120,6 +120,7 @@
 - Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.10501.pdf)
 - Universal Multi-modal Multi-domain Pre-trained Recommendation, arxiv 2023/11, [[paper]](https://arxiv.org/pdf/2311.01831.pdf)
 - Multi-Modality is All You Need for Transferable Recommender Systems,  arxiv 2023, [[paper]](https://www.semanticscholar.org/reader/4345216c8c99207c19d21621fcf3c6149dde97ea)
+- TransFR: Transferable Federated Recommendation with Pre-trained Language Models, arxiv 2024 ,[[paper]](https://arxiv.org/pdf/2402.01124.pdf)
 
 
 
