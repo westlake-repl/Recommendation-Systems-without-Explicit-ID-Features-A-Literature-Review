@@ -107,6 +107,7 @@
 - Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation, ACMMM 2023, [[paper]](https://www.semanticscholar.org/paper/Online-Distillation-enhanced-Multi-modal-for-Ji-Liu/a1f718113c6a4ac6eeacce477eefc0a26d101e95)
 - FMMRec: Fairness-aware Multimodal Recommendation, arxiv2023/10, [[paper]](https://www.semanticscholar.org/paper/FMMRec%3A-Fairness-aware-Multimodal-Recommendation-Chen-Chen/1c62a0d2c663837de50f729c60d90e2c5c1b69b2)
 - ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
+- Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
 
 
 ## Foundation and Transferable Recommender models
