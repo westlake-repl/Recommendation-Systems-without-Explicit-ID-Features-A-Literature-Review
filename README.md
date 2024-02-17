@@ -20,11 +20,15 @@
 
 
 # Paper List 
-
-## Perspective Paper (ID vs LLM & Multimodal)
+   
+## ID vs. LLM & ID. vs Multimodal & ID + LLM/Multimodal
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)  [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,  WSDM2024, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)  [[code]](https://github.com/westlake-repl/Adapter4Rec)
+- Self-Supervised Multi-Modal Sequential Recommendation,  arxiv 2024/02, [[paper]](https://arxiv.org/pdf/2304.13277.pdf)
+- ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
+- Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
+
 
 
 
@@ -107,9 +111,8 @@
 - Adversarial Training Towards Robust Multimedia Recommender System, TKDE2019, [[paper]](https://arxiv.org/pdf/1809.07062.pdf)
 - Multi-modal Knowledge Graphs for Recommender Systems, CIKM 2020, [[paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
 - Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation, ACMMM 2023, [[paper]](https://www.semanticscholar.org/paper/Online-Distillation-enhanced-Multi-modal-for-Ji-Liu/a1f718113c6a4ac6eeacce477eefc0a26d101e95)
+- Self-Supervised Multi-Modal Sequential Recommendation, arxiv2023/02, [[paper]](https://arxiv.org/pdf/2304.13277.pdf)
 - FMMRec: Fairness-aware Multimodal Recommendation, arxiv2023/10, [[paper]](https://www.semanticscholar.org/paper/FMMRec%3A-Fairness-aware-Multimodal-Recommendation-Chen-Chen/1c62a0d2c663837de50f729c60d90e2c5c1b69b2)
-- ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
-- Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
 
 
 ## Foundation and Transferable Recommender models
