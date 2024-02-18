@@ -21,13 +21,10 @@
 
 # Paper List 
    
-## ID vs. LLM & ID vs. Multimodal (Abondoning ID?)
+## Perspective paper: ID vs. LLM & ID vs. Multimodal
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)  [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,  WSDM2024, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)  [[code]](https://github.com/westlake-repl/Adapter4Rec)
-- Self-Supervised Multi-Modal Sequential Recommendation,  arxiv 2024/02, [[paper]](https://arxiv.org/pdf/2304.13277.pdf)
-- ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
-- Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
 
 
 
@@ -47,7 +44,8 @@
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, openreview 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
-- NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec)
+- An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf)
+- NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, TPAMI2024, [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec)
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)
 - Netflix: [[link]](https://github.com/HKUDS/LLMRec)
 
@@ -113,6 +111,10 @@
 - Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation, ACMMM 2023, [[paper]](https://www.semanticscholar.org/paper/Online-Distillation-enhanced-Multi-modal-for-Ji-Liu/a1f718113c6a4ac6eeacce477eefc0a26d101e95)
 - Self-Supervised Multi-Modal Sequential Recommendation, arxiv2023/02, [[paper]](https://arxiv.org/pdf/2304.13277.pdf)
 - FMMRec: Fairness-aware Multimodal Recommendation, arxiv2023/10, [[paper]](https://www.semanticscholar.org/paper/FMMRec%3A-Fairness-aware-Multimodal-Recommendation-Chen-Chen/1c62a0d2c663837de50f729c60d90e2c5c1b69b2)
+- Self-Supervised Multi-Modal Sequential Recommendation,  arxiv 2024/02, [[paper]](https://arxiv.org/pdf/2304.13277.pdf)
+- ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
+- Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
+
 
 
 ## Foundation and Transferable Recommender models
