@@ -39,6 +39,7 @@
 - Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, 2022/09, [[paper]](https://arxiv.org/pdf/2302.03735.pdf)
 - User Modeling in the Era of Large Language Models: Current Research and Future Directions,2023/12, [[paper]](https://www.semanticscholar.org/reader/74b0976a3a7b7013fd468a043a940dcf401e66f1)
 - USER MODELING AND USER PROFILING: A COMPREHENSIVE SURVEY,2024/02, [[paper]](https://arxiv.org/pdf/2402.09660.pdf)
+- Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024/02, [[paper]](https://arxiv.org/pdf/2402.11143.pdf)
 
 ## Cross-domain or Multimodal RS Dataset
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)
