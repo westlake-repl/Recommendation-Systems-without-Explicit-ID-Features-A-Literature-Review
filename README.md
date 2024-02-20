@@ -77,6 +77,7 @@
 - Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model, RecSys 2023
 - Leveraging Large Language Models for Sequential Recommendation, Recsys 2023/09, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 - LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/pdf/2311.00423.pdf)  [[code]](https://github.com/HKUDS/LLMRec)
+- Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation, arxiv 2024/02 , [[paper]](https://arxiv.org/pdf/2402.10602.pdf) 
 
 
 
