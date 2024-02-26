@@ -84,6 +84,7 @@
 
 ### Prompt with LLM
 - Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.08845v2.pdf)
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arxiv 2022/03, [[paper]](https://arxiv.org/abs/2203.13366)
 - Language Models as Recommender Systems: Evaluations and Limitations, NeurIPS Workshop ICBINB 2021/10, [[paper]](https://openreview.net/pdf?id=hFx3fY7-m9b)
 - Prompt Learning for News Recommendation, SIGIR 2023/04, [[paper]](https://arxiv.org/abs/2304.05263)
 - LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv,2023/07  [[paper]](https://arxiv.org/abs/2307.15780)
