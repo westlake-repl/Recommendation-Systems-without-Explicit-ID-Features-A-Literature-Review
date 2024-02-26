@@ -41,8 +41,8 @@
 - USER MODELING AND USER PROFILING: A COMPREHENSIVE SURVEY,2024/02, [[paper]](https://arxiv.org/pdf/2402.09660.pdf)
 - Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024/02, [[paper]](https://arxiv.org/pdf/2402.11143.pdf)
 
-## Cross-domain or Multimodal RS Dataset
-- Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)
+## Dataset for Transferable or Multimodal RS
+- Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)  
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf) | Images, Text, Tags, 200 million interactions
