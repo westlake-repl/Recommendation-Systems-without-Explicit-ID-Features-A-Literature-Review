@@ -28,10 +28,10 @@
 
 ## Datasets for Transferable or Multimodal RS
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)  
-- Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
-- An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf) | Images, Text, Tags, 200 million interactions
+- Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 - NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, TPAMI2024, [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec) | Images, Text, Nine downstream datasets
+- An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf) | Images, Text, Tags, 200 million interactions
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)  | Images, Text, Video, Audio, comments, tags, etc.
 - Netflix: [[link]](https://github.com/HKUDS/LLMRec)
 
