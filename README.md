@@ -152,6 +152,8 @@
 - Multi Datasource LTV User Representation (MDLUR), KDD2023, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599871)
 - Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning. arxiv2022/12, [[paper]](https://www.semanticscholar.org/paper/Pivotal-Role-of-Language-Modeling-in-Recommender-Shin-Kwak/7557105c9aa6a26db4f8e73fabb25e8134013fb5)
 - USER MODELING AND USER PROFILING: A COMPREHENSIVE SURVEY,2024/02, [[paper]](https://arxiv.org/pdf/2402.09660.pdf)
+- Generalized User Representations for Transfer Learning, arxiv 2024/03, [[paper]](https://arxiv.org/pdf/2403.00584.pdf)
+
 
 ## Lifelong Universal User Representation Learning 
 - One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2001.04253.pdf), [[code]](https://github.com/yuangh-x/2022-NIPS-Tenrec)
