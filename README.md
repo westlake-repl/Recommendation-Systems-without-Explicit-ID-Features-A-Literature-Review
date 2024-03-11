@@ -58,7 +58,7 @@
 - Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.06474.pdf)
 - Scaling Law for Recommendation Models: Towards General-purpose User Representations, AAAI 2023, [[paper]](https://arxiv.org/abs/2111.11294)
 
-### Untra Wide and Deep LLM
+### Untra Wide & Deep Recommender Models
 - StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking, SIGIR 2021, [[paper]](https://arxiv.org/pdf/2012.07598.pdf)
 - A User-Adaptive Layer Selection Framework for Very Deep Sequential Recommender Models, AAAI 2021, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16518)
 - A Generic Network Compression Framework for Sequential Recommender Systems, SIGIR 2020, [[paper]](https://arxiv.org/pdf/2004.13139.pdf)
