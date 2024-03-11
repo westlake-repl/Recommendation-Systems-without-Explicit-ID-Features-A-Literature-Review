@@ -34,6 +34,7 @@
 - An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf) | Images, Text, Tags, 200 million interactions
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)  | Images, Text, Video, Audio, comments, tags, etc.
 - Netflix: [[link]](https://github.com/HKUDS/LLMRec)
+- Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 
 
 
