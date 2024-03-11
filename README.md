@@ -33,8 +33,8 @@
 - NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, TPAMI2024, [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec) | Images, Text, Nine downstream datasets
 - An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arxiv 2023/09  [[paper]](https://arxiv.org/pdf/2309.06789.pdf) | Images, Text, Tags, 200 million interactions
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)  | Images, Text, Video, Audio, comments, tags, etc.
-- Netflix: [[link]](https://github.com/HKUDS/LLMRec)
-- Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+- MIND: A Large-scale Dataset for News Recommendation, ACL2020,  [[paper]](https://aclanthology.org/2020.acl-main.331/) 
+- Netflix: [[link]](https://github.com/HKUDS/LLMRec) Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) Yelp:  [[link]](https://www.yelp.com/dataset) 
 
 
 
