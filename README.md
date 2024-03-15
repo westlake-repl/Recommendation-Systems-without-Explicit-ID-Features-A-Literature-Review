@@ -210,4 +210,5 @@
 - https://zhuanlan.zhihu.com/p/642797247
 - Xiangyang Li Github  [[Link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main)
 - nancheng58i Github  [[Link]](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
+- enoche Github [[Link]](https://github.com/enoche/MultimodalRecSys)  
 
