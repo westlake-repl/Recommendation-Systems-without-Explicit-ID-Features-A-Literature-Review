@@ -201,10 +201,13 @@
 ## Reference and Blogs:
 - https://medium.com/@lifengyi_6964/from-id-based-to-llm-based-development-of-transferable-recommendation-systems-5e87bb839945
 - https://medium.com/@lifengyi_6964/rethinking-the-id-paradigm-in-recommender-systems-the-rise-of-modality-98f449dec016
+- https://medium.com/@lifengyi_6964/one-model-for-all-universal-recommender-system-82dab214a07d 
+- https://zhuanlan.zhihu.com/p/437671278
+- https://zhuanlan.zhihu.com/p/675213913
+- https://zhuanlan.zhihu.com/p/684805058
 - https://zhuanlan.zhihu.com/p/665467596
 - https://zhuanlan.zhihu.com/p/633839409
 - https://zhuanlan.zhihu.com/p/642797247
-- https://zhuanlan.zhihu.com/p/437671278
 - Xiangyang Li Github  [[Link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main)
 - nancheng58i Github  [[Link]](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
 
