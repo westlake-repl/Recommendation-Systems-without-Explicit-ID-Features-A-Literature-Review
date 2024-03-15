@@ -199,7 +199,7 @@
 
 
 ## Reference and Blogs:
-- https://medium.com/@lifengyi_6964/from-id-based-to-llm-based-development-of-transferable-recommendation-systems-5e87bb839945
+- https://medium.com/@lifengyi_6964/a-large-scale-short-video-recommender-system-dataset-160fdfe81b79
 - https://medium.com/@lifengyi_6964/rethinking-the-id-paradigm-in-recommender-systems-the-rise-of-modality-98f449dec016
 - https://medium.com/@lifengyi_6964/one-model-for-all-universal-recommender-system-82dab214a07d 
 - https://zhuanlan.zhihu.com/p/437671278
