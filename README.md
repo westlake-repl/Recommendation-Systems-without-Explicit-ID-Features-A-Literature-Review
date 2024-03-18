@@ -34,7 +34,7 @@
 - MIND: A Large-scale Dataset for News Recommendation, ACL2020,  [[paper]](https://aclanthology.org/2020.acl-main.331/)  | Text
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)  
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
-- Yelp:  [[link]](https://www.yelp.com/dataset)  Netflix: [[link]](https://github.com/HKUDS/LLMRec) Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+- Netflix: [[link]](https://github.com/HKUDS/LLMRec) Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 
 
 
