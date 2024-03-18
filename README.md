@@ -201,7 +201,8 @@
 ## Related Resources:
 - Xiangyang Li Github  [[Link]](https://github.com/archersama/awesome-recommend-system-pretraining-papers/tree/main)
 - nancheng58i Github  [[Link]](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
-- enoche Github [[Link]](https://github.com/enoche/MultimodalRecSys)  
+- enoche Github [[Link]](https://github.com/enoche/MultimodalRecSys)
+- WLiK Github [[Link]](https://github.com/WLiK/LLM4Rec-Awesome-Papers) 
 - https://medium.com/@lifengyi_6964/a-large-scale-short-video-recommender-system-dataset-160fdfe81b79
 - https://medium.com/@lifengyi_6964/rethinking-the-id-paradigm-in-recommender-systems-the-rise-of-modality-98f449dec016
 - https://medium.com/@lifengyi_6964/one-model-for-all-universal-recommender-system-82dab214a07d 
