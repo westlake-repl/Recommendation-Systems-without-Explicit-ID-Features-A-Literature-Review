@@ -125,6 +125,7 @@
 - ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
 - Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
 - BiVRec: Bidirectional View-based Multimodal Sequential Recommendation，arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.17334.pdf)
+- A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2403.13574.pdf)
 
 
 
