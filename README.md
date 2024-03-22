@@ -212,5 +212,11 @@
 - https://zhuanlan.zhihu.com/p/675213913
 - https://zhuanlan.zhihu.com/p/684805058
 - https://zhuanlan.zhihu.com/p/665467596
-- https://zhuanlan.zhihu.com/p/633839409
-- https://zhuanlan.zhihu.com/p/642797247
+
+## Recruitment
+If you have an innovative idea for building a universal foundation recommendation model but require large-scale dataset and computational resources, consider joining our lab as an intern or visiting scholar. We can provide access to 100 NVIDIA 80G A100 GPUs and a billion-level dataset of user-video/image/text interactions.
+
+The laboratory is hiring research assistants, interns, doctoral students, and postdoctoral researchers. Please contact the corresponding author for details.
+
+实验室招聘科研助理，实习生，博士生和博士后，请联系yuanfajie@westlake.edu.cn.
+
