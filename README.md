@@ -33,7 +33,6 @@
 - MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale [[paper]](https://arxiv.org/abs/2309.15379) [[link]](https://github.com/westlake-repl/MicroLens) [[DeepMind Talk]](https://github.com/westlake-repl/MicroLens/blob/master/MicroLens_DeepMind_Talk.pdf)  | Images, Text, Video, Audio, comments, tags, etc.
 - MIND: A Large-scale Dataset for News Recommendation, ACL2020,  [[paper]](https://aclanthology.org/2020.acl-main.331/)  | Text
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)  
-- Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)
 - MoRec: [[link]](https://github.com/westlake-repl/IDvs.MoRec) Netflix: [[link]](https://github.com/HKUDS/LLMRec) Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 
 
