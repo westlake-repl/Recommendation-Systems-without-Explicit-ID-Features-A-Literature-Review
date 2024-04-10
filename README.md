@@ -127,9 +127,10 @@
 - ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation,  arxiv2023/10, [[paper]](https://arxiv.org/pdf/2311.05956.pdf)
 - Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.08921.pdf)
 - BiVRec: Bidirectional View-based Multimodal Sequential Recommendation，arxiv2023/2, [[paper]](https://arxiv.org/pdf/2402.17334.pdf)
-- A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation, arxiv2023/2, [[paper]](https://arxiv.org/pdf/2403.13574.pdf)
-- An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders, arxiv2023/3, [[paper]](https://arxiv.org/pdf/2403.17372.pdf)
-- Discrete Semantic Tokenization for Deep CTR Prediction, arxiv2023/3, [[paper]](https://arxiv.org/abs/2403.08206f)
+- A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation, arxiv2024/2, [[paper]](https://arxiv.org/pdf/2403.13574.pdf)
+- An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders, arxiv2024/3, [[paper]](https://arxiv.org/pdf/2403.17372.pdf)
+- Discrete Semantic Tokenization for Deep CTR Prediction, arxiv2024/3, [[paper]](https://arxiv.org/abs/2403.08206f)
+- End-to-end training of Multimodal Model and ranking Model,  arxiv2023/3, [[paper]](https://arxiv.org/pdf/2404.06078.pdf)
 
 
 
