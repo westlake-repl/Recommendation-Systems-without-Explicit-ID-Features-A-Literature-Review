@@ -25,6 +25,8 @@
 - Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR2023, 2022/09, [[paper]](https://arxiv.org/pdf/2303.13835.pdf)  [[code]](https://github.com/westlake-repl/IDvs.MoRec)
 - Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023/05, [[paper]](https://arxiv.org/pdf/2305.11700.pdf)
 - Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights,  WSDM2024, [[paper]](https://arxiv.org/pdf/2305.15036.pdf)  [[code]](https://github.com/westlake-repl/Adapter4Rec)
+- The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation,  arxiv2024/04, [[paper]](https://arxiv.org/pdf/2404.08796.pdf) 
+
 
 ## Datasets for Transferable or Multimodal RS
 - NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, TPAMI2024, [[paper]](https://arxiv.org/pdf/2309.07705.pdf)  [[link]](https://github.com/westlake-repl/NineRec) | Images, Text, Nine downstream datasets
