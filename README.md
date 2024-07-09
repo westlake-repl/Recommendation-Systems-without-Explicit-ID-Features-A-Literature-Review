@@ -152,6 +152,7 @@
 - TransFR: Transferable Federated Recommendation with Pre-trained Language Models, arxiv 2024/02 ,[[paper]](https://arxiv.org/pdf/2402.01124.pdf)
 - Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions, arxiv 2024/02 ,[[paper]](https://arxiv.org/pdf/2311.04590.pdf)
 - Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, arxiv 2024/04 ,[[paper]](https://arxiv.org/pdf/2404.11343.pdf)
+- Language Models Encode Collaborative Signals in Recommendation, arxiv 2024/07 ,[[paper]](https://arxiv.org/pdf/2407.05441)
 
 
 
