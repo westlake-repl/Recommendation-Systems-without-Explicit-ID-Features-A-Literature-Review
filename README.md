@@ -36,6 +36,7 @@
 - MIND: A Large-scale Dataset for News Recommendation, ACL2020,  [[paper]](https://aclanthology.org/2020.acl-main.331/)  | Text
 - Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 [[link]](https://github.com/fajieyuan/sigir2020_peterrec)  
 - MoRec: [[link]](https://github.com/westlake-repl/IDvs.MoRec) Netflix: [[link]](https://github.com/HKUDS/LLMRec) Amazon:  [[link]](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+- Exploring Multi-Scenario Multi-Modal CTR Prediction with a Large Scale Dataset, SIGIR 2024/07  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657865f) |[[link]](https://www.atecup.cn/OfficalDataSet)| Images, Text, Multi-domain, True Negative, 100 million CTR data
 
 
 
