@@ -51,7 +51,7 @@
 - USER MODELING AND USER PROFILING: A COMPREHENSIVE SURVEY,2024/02, [[paper]](https://arxiv.org/pdf/2402.09660.pdf)
 - Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024/02, [[paper]](https://arxiv.org/pdf/2402.11143.pdf)
 - Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey, 2024/05, [[paper]](https://arxiv.org/pdf/2404.00621.pdf)
-
+- All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era, 2024/07, [[paper]](https://arxiv.org/pdf/2407.10081)
 
 
 
