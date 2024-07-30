@@ -72,6 +72,7 @@
 - Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors, SIGIR 2024, [[paper]](https://arxiv.org/pdf/2403.19347.pdf)
   
 ### Tuning LLM
+- CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation, RecSys 2024, [[paper]](https://arxiv.org/abs/2405.02429)
 - M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems,arxiv 2022/05, [[paper]](https://arxiv.org/pdf/2205.08084.pdf) 
 - TALLRec: An Effective and Efficient Tuning Framework to Align Large  Language Model with Recommendation, arxiv 2023/04, [[paper]](http://arxiv.org/abs/2305.00447v1)
 - GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, 2023/04, [[paper]](https://arxiv.org/pdf/2304.03879.pdf)
